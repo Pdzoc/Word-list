@@ -9,3 +9,5 @@ Simple tool for generating word list from the text and txt file. It uses [FileSa
 - save list as txt file
 
 ![wordlist](https://user-images.githubusercontent.com/71113600/227634960-06e60364-1dc2-41e1-8505-72043dba6fa6.png)
+
+If you add translation/definition to every word you can use such file with [Vocabulary Trainer](https://github.com/Pdzoc/Vocabulary-Trainer)
