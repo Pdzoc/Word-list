@@ -126,6 +126,9 @@ function sort() {
     else if(select.value==8) {
         wordsSet.sort((a,b) => a.length - b.length).reverse();
     }
+    else if(select.value==9) {
+        wordsSet.sort((a,b) => Math.random() > .5)
+    }
 
     printList();
 }
